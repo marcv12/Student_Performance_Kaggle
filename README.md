@@ -1,4 +1,4 @@
-# student_performance_kaggle_SPSS
+# Analyzing students grades according to their behaviour with SPSS
 
 
 This project was part of my final project for Brainnest Data analysis apprenticeship
